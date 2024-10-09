@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF 8">
+<meta name="viewport" content="width=device-width, initial scale=1.0">
+<head>
+    <title>Yhteystiedot</title>
+</head>
+<body>
+    <h6>Yhteystiedot</h1>
+        <div class="navigointi">
+            <ul>
+                <li>
+                    <a href="https://www.instagram.com/realmadrid/">Instagram</a>
+                </li>
+                <li>
+                    <a href="https://x.com/realmadriden">X</a>
+                </li>
+    
+            </ul>
+        </div>
+<body>
+<html>
