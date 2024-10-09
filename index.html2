@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF 8">
+<meta name="viewport" content="width=device-width, initial scale=1.0">
+<head>
+    <title>Real Madridin pokaalit</title>
+</head>
+<body>
+<h1>Real Madridin pokaalit</h1>
+<p>Real Madrid on Espanjan menestynein joukkue ja yksi maailman menestyneimmistä joukkueista maailmassa. Joukkue on voittanut 71 pokaalia 122 vuotisen historiansa aikana</p>
+<h2>Espanjan liiga</h2>
+<p>Real Madrid on voittanut eniten Espanjan korkeimman sarjatason titteleitä kaikista joukkueista. Kaudella 23-24 joukkue rikkoi oman ennätyksensä ja voitti 36. tittelinsä
+<h3>UEFA Mestareiden liiga </h3>
+<p>Real Madridilla on yli tuplasti enemmän Mestareiden liigoja kuin toiseksi eniten olevalla AC Milanilla. Real Madridi rikkoi tämänkin ennätyksen kaudella 23-24, kun he voittivat 15. pokaalinsa</p>
+<h4>Copa Del Rey</h4>
+<p>Tämä onkin ainoa kolmesta "merkittävästä" pokaalista, jota Real Madridilla ei ole eniten. Real Madrid on kerännyt 20 kappaletta pokaaleja</p>
+<h5>Yhteenveto pokaaleista</h5>
+<ul>
+    <li>LaLiga 36</li>
+    <li>Champions league 15</li>
+    <li>Copa Del Rey 20</li>
+</ul>
+</body>
+</html>
